@@ -1,2 +1,41 @@
 # vscode_test
 test github integration &amp; use in vscode
+<#PSScriptInfo
+
+.VERSION 1.0
+
+.GUID 4585e1df-2b28-4898-aec7-a5048f9cf747
+
+.AUTHOR hoegfe
+
+.COMPANYNAME
+
+.COPYRIGHT
+
+.TAGS
+
+.LICENSEURI
+
+.PROJECTURI
+
+.ICONURI
+
+.EXTERNALMODULEDEPENDENCIES 
+
+.REQUIREDSCRIPTS
+
+.EXTERNALSCRIPTDEPENDENCIES
+
+.RELEASENOTES
+
+
+.PRIVATEDATA
+
+#>
+
+<# 
+
+.DESCRIPTION 
+ template for powershell scripts 
+
+#> 
