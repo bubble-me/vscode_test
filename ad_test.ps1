@@ -1,3 +1,1 @@
-Get-ADDomain -Identity 'avalon.local'
-#test git commit from mac
-#test2
+Write-Host "neuer test mit branch 'neuer-test'"
